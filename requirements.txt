@@ -1,0 +1,6 @@
+# opencv-gui requirements for pip
+# USAGE: pip install -r requirements.txt
+
+python==3.6
+opencv_contrib_python # installs numpy alongside
+PyQt5
