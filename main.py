@@ -16,12 +16,6 @@ from os import path
 import numpy as np
 import cv2
 import imutils
-from imutils import paths, face_utils
-import requests
-import time
-from datetime import datetime
-import pickle
-import face_recognition
 import sqlite3
 from contextlib import contextmanager
 
