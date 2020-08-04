@@ -22,6 +22,6 @@ To execute the application, run:
 
 ### 3. Observations:
 
-The code for this project is based in: [[1]](https://stackoverflow.com/questions/44404349/pyqt-showing-video-stream-from-opencv) and [[2]](https://gist.github.com/docPhil99/ca4da12c9d6f29b9cea137b617c7b8b1.
+The code for this project is based in: [[1]](https://stackoverflow.com/questions/44404349/pyqt-showing-video-stream-from-opencv) and [[2]](https://gist.github.com/docPhil99/ca4da12c9d6f29b9cea137b617c7b8b1).
 
 
