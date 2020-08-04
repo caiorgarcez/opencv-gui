@@ -1,6 +1,6 @@
 ## opencv-GUI
 
-A PyQt5-based opencv computer vision GUI application with login features along with a SQLite dabase to manage users.
+A PyQt5-based opencv computer vision GUI application with login features along with SQLite dabase to manage users.
 
 -----
 
